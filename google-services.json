@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819582143961",
+    "project_id": "coaching-app-2024",
+    "storage_bucket": "coaching-app-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819582143961:android:dec391b4ed5cd94b865dc8",
+        "android_client_info": {
+          "package_name": "com.phantoms.coachingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiuvqwo7bboYjOBcCX7sCThEFDdHfYWW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
